@@ -7,7 +7,7 @@ Apasionado por la creación de aplicaciones escalables y el diseño de interface
 
 * 💻 Construyo interfaces responsivas y orientadas al usuario utilizando **JavaScript, React y Material UI**.
 * ⚙️ Desarrollo APIs RESTful y lógica de servidor utilizando **Node.js con Express**, así como arquitecturas robustas con **C#** y **.NET**.
-* 🧠 Actualmente expandiendo mis capacidades técnicas explorando soluciones de IA (como Azure AI y Google AI Studio).
+* 🧠 Actualmente expandiendo mis capacidades técnicas explorando soluciones de IA.
 * 🎓 En formación continua sobre infraestructura, ciencia de datos y mejores prácticas de desarrollo de software.
 
 ## 🛠️ Stack Tecnológico
@@ -45,6 +45,6 @@ Plataforma integral diseñada para la gestión, control y asignación de turnos 
 * 📧 [Email](mailto:emanuelramos19@outlook.com)
 
 <div align="center" >
-  <img src="https://media.giphy.com/media/KfS8Vad3e4Bj0kx58N/giphy.gif" width="200" alt="Big Dog Dancing" />
-  <img src="https://media.giphy.com/media/7C5tEewYVida3AnNN5/giphy.gif" width="200" alt="Happy Dance" />
+  <img src="https://media.giphy.com/media/KfS8Vad3e4Bj0kx58N/giphy.gif" width="150" alt="Big Dog Dancing" />
+  <img src="https://media.giphy.com/media/7C5tEewYVida3AnNN5/giphy.gif" width="150" alt="Happy Dance" />
 </div>
